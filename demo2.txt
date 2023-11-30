@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sdgdhjtfkyugthdrgesfwesgrtre
 kj
+=======
+sdgdhjtfkyugthdrgesfwesgrdfuygh
+>>>>>>> 6defb253fb075cca7f3cd9055b24ca2171b07f55
